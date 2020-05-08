@@ -1,0 +1,11 @@
+C:\Users\James\Desktop\Bootcamp\MVCCountriesLab\MVCCountriesLab\bin\Debug\netcoreapp2.1\MVCCountriesLab.deps.json
+C:\Users\James\Desktop\Bootcamp\MVCCountriesLab\MVCCountriesLab\bin\Debug\netcoreapp2.1\MVCCountriesLab.runtimeconfig.json
+C:\Users\James\Desktop\Bootcamp\MVCCountriesLab\MVCCountriesLab\bin\Debug\netcoreapp2.1\MVCCountriesLab.runtimeconfig.dev.json
+C:\Users\James\Desktop\Bootcamp\MVCCountriesLab\MVCCountriesLab\bin\Debug\netcoreapp2.1\MVCCountriesLab.dll
+C:\Users\James\Desktop\Bootcamp\MVCCountriesLab\MVCCountriesLab\bin\Debug\netcoreapp2.1\MVCCountriesLab.pdb
+C:\Users\James\Desktop\Bootcamp\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp2.1\MVCCountriesLab.csprojAssemblyReference.cache
+C:\Users\James\Desktop\Bootcamp\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp2.1\MVCCountriesLab.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\Bootcamp\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp2.1\MVCCountriesLab.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\Bootcamp\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp2.1\MVCCountriesLab.AssemblyInfo.cs
+C:\Users\James\Desktop\Bootcamp\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp2.1\MVCCountriesLab.dll
+C:\Users\James\Desktop\Bootcamp\MVCCountriesLab\MVCCountriesLab\obj\Debug\netcoreapp2.1\MVCCountriesLab.pdb
